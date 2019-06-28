@@ -1,0 +1,389 @@
+[
+    [
+        "C:\\Users\\1412456\\mywork\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561707477516,
+            "changeTime": 1561707477516,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561707477516,
+            "changeTime": 1561707477516,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561709945109,
+            "changeTime": 1561709945109,
+            "contentHash": "2e2bd7661e734ab60690ee45a67fbe3c77fb7fa0"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561707477516,
+            "changeTime": 1561707477516,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561707906129,
+            "changeTime": 1561707906129,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\1412456\\mywork",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561708407824,
+            "changeTime": 1561708407824,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2103,
+            "modifiedTime": 1561709944686,
+            "changeTime": 1561709944686,
+            "contentHash": "fa49bf9f21efa61e6c245852fee9ff408a583b18"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Country__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Country__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 360,
+            "modifiedTime": 1561709944691,
+            "changeTime": 1561709944691,
+            "contentHash": "8f3d30a94f607cdca19fc6e305e4152720235194"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Fruit_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Fruit_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1561709944697,
+            "changeTime": 1561709944697,
+            "contentHash": "e39b5168ee6b758cc8ea0f1b9a9790b32d914b99"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1561709944700,
+            "changeTime": 1561709944700,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2224,
+            "modifiedTime": 1561709944746,
+            "changeTime": 1561709944746,
+            "contentHash": "c24165b564a5f4a2cd98abafeac67395e3f007e1"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\flexipages\\Global_fruits_App_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\flexipages\\Global_fruits_App_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 512,
+            "modifiedTime": 1561709944764,
+            "changeTime": 1561709944764,
+            "contentHash": "0b87340aca791aaaa17724c74fb621574b19b799"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1561709944780,
+            "changeTime": 1561709944780,
+            "contentHash": "e6d3ceb7c99eb8a50672ce743ff76440c6fcc5a6"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\applications\\Global_fruits_App.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\applications\\Global_fruits_App.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 616,
+            "modifiedTime": 1561709944797,
+            "changeTime": 1561709944797,
+            "contentHash": "100438b786ff28d0e7af9e0f4d497f3e489cb63d"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5491,
+            "modifiedTime": 1561709944841,
+            "changeTime": 1561709944841,
+            "contentHash": "c81e616407ec9cb1df2f45caba39feea729f0355"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5153,
+            "modifiedTime": 1561709944935,
+            "changeTime": 1561709944935,
+            "contentHash": "0295d3df35c263a70ed7c3a76273a8f7c466d9fa"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5153,
+            "modifiedTime": 1561709945015,
+            "changeTime": 1561709945015,
+            "contentHash": "0295d3df35c263a70ed7c3a76273a8f7c466d9fa"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 20465,
+            "modifiedTime": 1561709945062,
+            "changeTime": 1561709945062,
+            "contentHash": "3aa307349057f2f60e4ff6404ac0ef345157ce28"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\appMenus\\AppSwitcher.appMenu-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\appMenus\\AppSwitcher.appMenu-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2007,
+            "modifiedTime": 1561709945109,
+            "changeTime": 1561709945109,
+            "contentHash": "2071739d13dc2e471342e681c69a5926b95fc3d2"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\objects\\Fruit__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\objects\\Fruit__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561709944698,
+            "changeTime": 1561709944698,
+            "contentHash": "66af05d6e617d214f0fb9dd09c7893dc89604a8e"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561709944678,
+            "changeTime": 1561709944678,
+            "contentHash": "e5e02b5b544b75f660aa97a44c1a361d5fd2112c"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\objects\\Fruit__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\objects\\Fruit__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561709944693,
+            "changeTime": 1561709944693,
+            "contentHash": "b2e2f7b67d9d9fc60c14d64f8a468f53c24a9e26"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561709944699,
+            "changeTime": 1561709944699,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561709944743,
+            "changeTime": 1561709944743,
+            "contentHash": "34c6cd682ae6f398dd3c7d51a0f2e623bbdc23ef"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561709944763,
+            "changeTime": 1561709944763,
+            "contentHash": "220977f2a1f5229ddeb89ec8ed1e440f5bb7ae79"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561709944779,
+            "changeTime": 1561709944779,
+            "contentHash": "60eec67ed4d8184a3c0378106174081de1f1eb35"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561709944796,
+            "changeTime": 1561709944796,
+            "contentHash": "d6856911b7d06751f133038112160b6851667ab8"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561709945062,
+            "changeTime": 1561709945062,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\appMenus",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\1412456\\mywork\\force-app\\main\\default\\appMenus",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561709945109,
+            "changeTime": 1561709945109,
+            "contentHash": "7c65d70563206b380e20367663fe2cc611131a2d"
+        }
+    ]
+]
